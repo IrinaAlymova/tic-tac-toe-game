@@ -10,10 +10,10 @@ Made as a homework for Java Course.
 2. Open the command line tool on your computer and go to /java repository.
 3. Compile a class.
 ```bash
-javac TicTacToe.java
+javac TicTacToeGame.java
 ```
 4. Launch game.
 ```bash
-java TicTacToe
+java TicTacToeGame
 ```
 5. Enjoy!
