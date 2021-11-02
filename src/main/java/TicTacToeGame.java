@@ -42,7 +42,7 @@ public class TicTacToeGame {
             } else if (answer.equalsIgnoreCase("no")) {
                 System.out.println("Good choice! He's not that smart anyway ッ");
             } else {
-                System.out.println("I did't quite get you, but will assume you have someone to play with! ッ");
+                System.out.println("I did not quite get you, but will assume you have someone to play with! ッ");
             }
 
             System.out.println("What is your name?");
